@@ -1,0 +1,6 @@
+streamlit
+transformers
+tf-keras
+tensorflow
+scikit-learn
+nltk
